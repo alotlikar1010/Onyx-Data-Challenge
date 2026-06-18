@@ -2,9 +2,7 @@
 UK Fintech Neobank Digital Transaction Health Monitor Analytics Challenge
 
 # Problem Statement
-
-
-# Task:
+In this challenge, you will analyze a transactional dataset from a UK-based fintech neobank tracking customer activity, transaction performance, fraud exposure, and fee revenue across digital banking channels. The data spans individual transactions, customer profiles, transaction types, merchant categories, and supporting dimensions including regions, devices, channels, and KYC status. Your objective is to uncover revenue opportunities, identify fraud and operational risks, and detect customer behaviour patterns — helping Risk, Finance, Product, and Compliance teams improve transaction success rates, reduce revenue leakage, strengthen fraud controls, and enhance the overall customer experience through data-driven decisions.
 
 
 # Dataset
