@@ -32,16 +32,5 @@ https://datadna.onyxdata.co.uk/challenges/june-2026-datadna-uk-fintech-neobank-d
   - Conditional formatting
   - Multi-page report design
 
-## Data Analysis Concepts
-- Cohort and segment analysis
-- Over-index / under-index analysis
-- Root cause investigation
-- KPI definition and measurement design
-
-## Domain Knowledge
-- Fintech and banking transaction monitoring
-- Fraud risk analysis
-- Revenue leakage analysis
-
 
 # Key Insights
