@@ -12,25 +12,11 @@ https://datadna.onyxdata.co.uk/challenges/june-2026-datadna-uk-fintech-neobank-d
 
 ## Power BI
 - Data Modeling
-  - Star schema
-  - Fact and dimension relationships
-  - Many-to-one cardinality
-
 - DAX
-  - Calculated measures
-  - Calculated columns
-  - FILTER, DIVIDE, COUNTROWS patterns
-
 - Power Query
-  - Data transformation
-  - Null handling
-  - Custom columns
-
 - Data Visualization
-  - Matrix reports
-  - Filled maps
-  - Conditional formatting
-  - Multi-page report design
+
+# Screenshot
 
 
 ## Key Insights
