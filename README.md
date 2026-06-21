@@ -17,7 +17,13 @@ https://datadna.onyxdata.co.uk/challenges/june-2026-datadna-uk-fintech-neobank-d
 - Data Visualization
 
 # Screenshot
+![Screenshot 1](screenshots/1.jpg)
 
+![Screenshot 2](screenshots/2.jpg)
+
+![Screenshot 3](screenshots/3.jpg)
+
+![Screenshot 4](screenshots/4.jpg)
 
 ## Key Insights
 # Executive Summary 
